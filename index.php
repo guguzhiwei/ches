@@ -153,4 +153,7 @@ function checkholddomain($domain) {
 	}
 	return $ishold;
 }
+
+
+echo "测试";
 ?>
